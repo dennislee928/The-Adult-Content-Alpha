@@ -15,23 +15,23 @@ const (
 	TopicMediaHashes   = "media-hashes"
 )
 
-// SocialMention 與 Rust 端 SocialMentionEvent 對應。
+// SocialMention 與 Rust 端 SocialMentionEvent 對應（Kafka JSON 為 snake_case）。
 type SocialMention struct {
-	Platform      string  `json:"platform"`
-	PostID        string  `json:"post_id"`
-	AuthorID      string  `json:"author_id"`
-	AuthorHandle  string  `json:"author_handle"`
-	ContentText   string  `json:"content_text"`
+	Platform       string   `json:"platform"`
+	PostID         string   `json:"post_id"`
+	AuthorID       string   `json:"author_id"`
+	AuthorHandle   string   `json:"author_handle"`
+	ContentText    string   `json:"content_text"`
 	SentimentScore *float32 `json:"sentiment_score"`
-	CreatedAtUTC  string  `json:"created_at_utc"`
+	CreatedAtUTC   string   `json:"created_at_utc"`
 }
 
 // MediaHash 與 Rust 端 MediaHashEvent 對應。
 type MediaHash struct {
-	Platform    string `json:"platform"`
-	PostID      string `json:"post_id"`
-	MediaURL    string `json:"media_url"`
-	PhashHex    string `json:"phash_hex"`
+	Platform     string `json:"platform"`
+	PostID       string `json:"post_id"`
+	MediaURL     string `json:"media_url"`
+	PhashHex     string `json:"phash_hex"`
 	CreatedAtUTC string `json:"created_at_utc"`
 }
 
