@@ -1,0 +1,10 @@
+/Users/dennis_leedennis_lee/Documents/GitHub/The-Adult-Content-Alpha/rust-ingestion/target/debug/deps/built-ab599f507f5ce711.d: /Users/dennis_leedennis_lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/built-0.8.0/src/lib.rs /Users/dennis_leedennis_lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/built-0.8.0/src/environment.rs /Users/dennis_leedennis_lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/built-0.8.0/src/util.rs /Users/dennis_leedennis_lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/built-0.8.0/src/../README.md
+
+/Users/dennis_leedennis_lee/Documents/GitHub/The-Adult-Content-Alpha/rust-ingestion/target/debug/deps/libbuilt-ab599f507f5ce711.rlib: /Users/dennis_leedennis_lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/built-0.8.0/src/lib.rs /Users/dennis_leedennis_lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/built-0.8.0/src/environment.rs /Users/dennis_leedennis_lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/built-0.8.0/src/util.rs /Users/dennis_leedennis_lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/built-0.8.0/src/../README.md
+
+/Users/dennis_leedennis_lee/Documents/GitHub/The-Adult-Content-Alpha/rust-ingestion/target/debug/deps/libbuilt-ab599f507f5ce711.rmeta: /Users/dennis_leedennis_lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/built-0.8.0/src/lib.rs /Users/dennis_leedennis_lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/built-0.8.0/src/environment.rs /Users/dennis_leedennis_lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/built-0.8.0/src/util.rs /Users/dennis_leedennis_lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/built-0.8.0/src/../README.md
+
+/Users/dennis_leedennis_lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/built-0.8.0/src/lib.rs:
+/Users/dennis_leedennis_lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/built-0.8.0/src/environment.rs:
+/Users/dennis_leedennis_lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/built-0.8.0/src/util.rs:
+/Users/dennis_leedennis_lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/built-0.8.0/src/../README.md:

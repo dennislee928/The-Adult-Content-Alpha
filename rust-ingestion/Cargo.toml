@@ -18,7 +18,7 @@ rdkafka = { version = "0.36", features = ["cmake-build"] }
 
 # 影像與 pHash (Perceptual Hash)
 image = "0.25"
-img_hash = "4"
+img_hash = "3"
 hex = "0.4"
 
 # 速率限制
