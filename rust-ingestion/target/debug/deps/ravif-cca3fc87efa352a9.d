@@ -1,0 +1,10 @@
+/Users/dennis_leedennis_lee/Documents/GitHub/The-Adult-Content-Alpha/rust-ingestion/target/debug/deps/ravif-cca3fc87efa352a9.d: /Users/dennis_leedennis_lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ravif-0.12.0/src/lib.rs /Users/dennis_leedennis_lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ravif-0.12.0/src/av1encoder.rs /Users/dennis_leedennis_lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ravif-0.12.0/src/error.rs /Users/dennis_leedennis_lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ravif-0.12.0/src/dirtyalpha.rs
+
+/Users/dennis_leedennis_lee/Documents/GitHub/The-Adult-Content-Alpha/rust-ingestion/target/debug/deps/libravif-cca3fc87efa352a9.rlib: /Users/dennis_leedennis_lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ravif-0.12.0/src/lib.rs /Users/dennis_leedennis_lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ravif-0.12.0/src/av1encoder.rs /Users/dennis_leedennis_lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ravif-0.12.0/src/error.rs /Users/dennis_leedennis_lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ravif-0.12.0/src/dirtyalpha.rs
+
+/Users/dennis_leedennis_lee/Documents/GitHub/The-Adult-Content-Alpha/rust-ingestion/target/debug/deps/libravif-cca3fc87efa352a9.rmeta: /Users/dennis_leedennis_lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ravif-0.12.0/src/lib.rs /Users/dennis_leedennis_lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ravif-0.12.0/src/av1encoder.rs /Users/dennis_leedennis_lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ravif-0.12.0/src/error.rs /Users/dennis_leedennis_lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ravif-0.12.0/src/dirtyalpha.rs
+
+/Users/dennis_leedennis_lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ravif-0.12.0/src/lib.rs:
+/Users/dennis_leedennis_lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ravif-0.12.0/src/av1encoder.rs:
+/Users/dennis_leedennis_lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ravif-0.12.0/src/error.rs:
+/Users/dennis_leedennis_lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ravif-0.12.0/src/dirtyalpha.rs:
