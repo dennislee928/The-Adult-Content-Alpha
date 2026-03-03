@@ -1,0 +1,37 @@
+[package]
+name = "adult-content-ingestion"
+version = "0.1.0"
+edition = "2021"
+description = "數據抓取與影像 pHash 運算，產出 metadata 至 Kafka"
+
+[dependencies]
+# Async runtime
+tokio = { version = "1", features = ["full"] }
+
+# HTTP 與 API 串接
+reqwest = { version = "0.11", features = ["json"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+
+# Kafka producer
+rdkafka = { version = "0.36", features = ["cmake-build"] }
+
+# 影像與 pHash (Perceptual Hash)
+image = "0.25"
+img_hash = "4"
+hex = "0.4"
+
+# 速率限制
+governor = "0.6"
+
+# 日誌
+tracing = "0.1"
+tracing-subscriber = { version = "0.3", features = ["env-filter"] }
+
+[lib]
+name = "ingestion"
+path = "src/lib.rs"
+
+[[bin]]
+name = "ingestion"
+path = "src/main.rs"
